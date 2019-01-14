@@ -1,4 +1,4 @@
-# EncontreOCEP
+# Encontre o CEP
 Aplicativo para você descobrir o endereço de um determinado CEP
 <br>
 
